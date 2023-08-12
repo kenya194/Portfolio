@@ -3,8 +3,11 @@ import './index.scss';
 
 
 const Layout = () => {
-    return  <>Hello</>
-
+    return ( 
+        <div>
+            <h1>Hello</h1>
+        </div>
+    )
 }
 
 export default Layout
